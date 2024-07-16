@@ -1,0 +1,38 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding-right: 25px;
+}
+
+.content {
+    width: 332px;   
+    border:2px solid; 
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+
+.content img {
+    width: 100%;
+}
+
+.container__buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px 0;
+}
+
+.btn__text {
+    display: flex;
+    align-items: center;
+    color: #F9FAE5;
+    text-transform: uppercase;
+}
+
+.btn__text button {
+    cursor: pointer;
+    border: 0;
+    background-color: #262626;
+}

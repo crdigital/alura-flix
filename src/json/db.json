@@ -1,0 +1,74 @@
+{
+    "front_end":[    
+        {
+            "id":1,
+            "titulo":"O que faz uma desenvolvedora Fron-end",
+            "capa":"/imagens/frontend/Frontend1.png",
+            "link":"https://www.youtube.com/embed/ZY3-MFxVdEw?si=rPcurlsJ6AXoll3r",
+            "descricao":"O que faz uma desenvolvedora Fron-end"
+        },
+        {
+            "id":2,
+            "titulo":"Árvores Binárias",
+            "capa":"/imagens/frontend/Frontend2.png",
+            "link":"https://www.youtube.com/embed/VmKkAQtnjsM?si=3EuR-3-M8MArzWuM",
+            "descricao":"Árvores Binárias"
+        },
+        {
+            "id":3,
+            "titulo":"Implementando UX no Front-end",
+            "capa":"/imagens/frontend/Frontend3.png",
+            "link":"https://www.youtube.com/embed/FJhMCi07T4A?si=xg9iG58sIiib75-8",
+            "descricao":"Implementando UX no Front-end"
+        }
+        
+    ],
+    "back_end":[    
+        {
+            "id":1,
+            "titulo":"O que fazer para se tornar um Back-end Developer?",
+            "capa":"/imagens/backend/Backend1.png",
+            "link":"https://www.youtube.com/embed/3Wo4L2dPS58?si=ZvZE3yg0X-aRzayB",
+            "descricao":"O que fazer para se tornar um Back-end Developer?"
+        },
+        {
+            "id":2,
+            "titulo":"Github-cli uma nova experiência no Github",
+            "capa":"/imagens/backend/Backend2.png",
+            "link":"https://www.youtube.com/embed/6o6-bKOZOEY?si=C9rbzf9dhhEQWako",
+            "descricao":"Github-cli uma nova experiência no Github"
+        },
+        {
+            "id":3,
+            "titulo":"Qual a melhor linguagem de programação?",
+            "capa":"/imagens/backend/Backend3.png",
+            "link":"https://www.youtube.com/embed/Uh-GNH-t89w?si=gJIcgDJyfzFgJYxf",
+            "descricao":"Qual a melhor linguagem de programação?"
+        }
+        
+    ],
+    "mobile":[    
+        {
+            "id":1,
+            "titulo":"Desenvolvimento android",
+            "capa":"/imagens/mobile/Mobile1.png",
+            "link":"https://www.youtube.com/embed/fWscDFHKgw8?si=qqy1oeTkOIlb7qiu",
+            "descricao":"Desenvolvimento android"
+        },
+        {
+            "id":2,
+            "titulo":"The New React Native",
+            "capa":"/imagens/mobile/Mobile2.png",
+            "link":"https://www.youtube.com/embed/52El0EUI6D0?si=qoghjihl8TKmA6by",
+            "descricao":"The New React Native"
+        },
+        {
+            "id":3,
+            "titulo":"Como começar seu primeiro app com Flutter",
+            "capa":"/imagens/mobile/Mobile3.png",
+            "link":"https://www.youtube.com/embed/xSC8j3gl7xM?si=cVUHg60CTUCnnKta",
+            "descricao":"Como começar seu primeiro app com Flutter"
+        }
+        
+    ]
+}

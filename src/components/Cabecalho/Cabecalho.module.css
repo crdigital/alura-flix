@@ -1,0 +1,56 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #121212;
+    width: 97%;
+    height: 35px;
+    /* border-bottom: #006edc 2px solid; */
+    
+}
+
+.containerButtons{
+    display: flex;
+    gap: 25px;
+}
+
+.btnHome {
+    width: 120px;
+    height: 35px;
+    text-transform: uppercase;
+    background-color: #121212;
+    border: medium solid #006edc;
+    border-radius: 0.5rem;
+    color: #006edc;
+    cursor: pointer;
+}
+
+.btnNewVideo {
+    width: 120px;
+    height: 33px;
+    text-transform: uppercase;
+    background-color: #262626;
+    border: medium solid #FFF;
+    border-radius: 0.5rem;
+    color: #fff;
+    margin-right: 10px;
+    cursor: pointer ;
+}
+
+.btnHome:hover {
+    box-shadow: 0 0 15px #006edc;
+}
+
+.btnNewVideo:hover {
+    box-shadow: 0 0 15px #FFF;
+
+}
+
+.hr {
+    border: 1.5px solid #006edc;
+    margin: 0;
+    box-shadow: 0 0 30px #006edc;    
+}
+
