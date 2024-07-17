@@ -13,8 +13,9 @@ const Conteudo = () => {
         fetch('https://api-alura-flix-ecru.vercel.app/front_end')
         .then(resposta => resposta.json())
         .then(dados => {
-            setVideosFrontend(dados)
-        });        
+            console.log(dados);
+            setVideosFrontend(dados);
+        });
     },[]);
 
     // backend
