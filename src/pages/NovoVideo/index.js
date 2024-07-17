@@ -99,7 +99,7 @@ const NovoVideo = () => {
                     </div>
                     <div className={styles.container_buttons}>
                         <button className={`${styles.button} ${styles.btnGuardar}`} type='submit'>Guardar</button>
-                        <button className={`${styles.button} ${styles.btnLimpar}`} onClick={() => limpaCampos()}>Limpar</button>
+                        <button className={`${styles.button} ${styles.btnLimpar}`} type='button' onClick={() => limpaCampos()}>Limpar</button>
                     </div>
                 </div>
             </form>
